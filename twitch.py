@@ -5,6 +5,7 @@ import urllib.error
 import urllib.parse
 import os.path
 
+
 # Settings
 TWITCH_USERNAME = "enter-your-username-here"
 CLIENT_ID = "enter-your-client-id-here"
